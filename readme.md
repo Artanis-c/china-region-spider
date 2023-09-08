@@ -4,5 +4,8 @@
 
 
 下载项目后，pip安装所需依赖，直接运行main即可
+pip3 install requests
+pip3 install lxml
+
 
 项目中附带了2022年的最新行政区域编码，数据来源：国家统计局http://www.stats.gov.cn/sj/tjbz/tjyqhdmhcxhfdm/2022/index.html
